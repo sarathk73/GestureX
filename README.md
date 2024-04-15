@@ -24,3 +24,20 @@ GestureX is built with a stack centered around Python and OpenCV, ensuring a rob
 - [NumPy](https://numpy.org/)
 - [AutoPy](https://autopy.org/)
 - [PyCharm IDE](https://www.jetbrains.com/pycharm/)
+
+## Getting Started
+
+To get started with GestureX, ensure you have the following prerequisites installed on your system:
+
+- Python 3.x
+- OpenCV library
+- MediaPipe
+- NumPy
+- AutoPy
+
+Once the prerequisites are installed, clone the repository to your local machine and navigate to the project directory.
+
+```bash
+git clone https://github.com/yourusername/GestureX.git
+cd GestureX
+```
