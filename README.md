@@ -57,4 +57,6 @@ Your contributions are welcome! If you would like to contribute, fork the reposi
 ## License
 GestureX is open-sourced under the MIT License.
 
+## Acknowledgments
+Special thanks to all the contributors and open-source libraries that made this project possible.
 
