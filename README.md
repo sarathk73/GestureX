@@ -45,4 +45,11 @@ Run gestureX.py to start the hand gesture control system.
 ```bash
 python gestureX.py
 ```
+## Documentation 
+
+For detailed understanding, here's a brief on the main modules:
+
+  - HandTrackingModule.py: This module is central to the project, incorporating Mediapipe and OpenCV to track hand landmarks in real-time and provide necessary coordinates for gesture recognition.
+  - gestureX.py: Built upon the HandTracking module, it interprets the hand landmarks to perform various control actions like mouse movement, clicks, and executing system commands.
+  
 
