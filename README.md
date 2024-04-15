@@ -51,5 +51,10 @@ For detailed understanding, here's a brief on the main modules:
 
   - HandTrackingModule.py: This module is central to the project, incorporating Mediapipe and OpenCV to track hand landmarks in real-time and provide necessary coordinates for gesture recognition.
   - gestureX.py: Built upon the HandTracking module, it interprets the hand landmarks to perform various control actions like mouse movement, clicks, and executing system commands.
-  
+
+## Contributions and Support
+Your contributions are welcome! If you would like to contribute, fork the repository, make changes, and create a pull request with your improvements. For any support or queries, raise an issue in the GitHub issue tracker.
+## License
+GestureX is open-sourced under the MIT License.
+
 
