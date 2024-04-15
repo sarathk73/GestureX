@@ -55,7 +55,7 @@ For detailed understanding, here's a brief on the main modules:
 ## Contributions and Support
 Your contributions are welcome! If you would like to contribute, fork the repository, make changes, and create a pull request with your improvements. For any support or queries, raise an issue in the GitHub issue tracker.
 ## License
-GestureX is open-sourced under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 Special thanks to all the contributors and open-source libraries that made this project possible.
