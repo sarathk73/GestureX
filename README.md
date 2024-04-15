@@ -13,3 +13,14 @@ At the core of GestureX lies a highly responsive hand-tracking module that harne
 - **Real-Time Responsiveness:** Achieves high frames-per-second (FPS) rate for a fluid user experience.
 - **Accessibility:** Requires no specialized hardware, making it accessible for a broader audience.
 - **Multifunctional Controls:** Offers a range of control options from simple cursor movements to complex commands like opening drives or applications.
+
+## Technologies Used
+
+GestureX is built with a stack centered around Python and OpenCV, ensuring a robust and scalable solution.
+
+- [Python](https://www.python.org)
+- [OpenCV](https://opencv.org/)
+- [MediaPipe](https://mediapipe.dev/)
+- [NumPy](https://numpy.org/)
+- [AutoPy](https://autopy.org/)
+- [PyCharm IDE](https://www.jetbrains.com/pycharm/)
