@@ -1,16 +1,7 @@
-# GestureX
-GestureX is an OpenCV-based hand motion sensing system for intuitive, efficient user control.This project aims to investigate the potential of creating a vision-based gesture recognition system using OpenCV to accurately and efficiently recognize hand gestures for computer control.
-Computer vision techniques and OpenCV
-library will be employed to create a system that does not
-require specialized hardware, thus making it accessible to a
-broader audience.
+# GestureX: Intuitive Hand Gesture Control System
 
-### Languages and Tools used
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" alt="pycharm" width="40" height="40"/> </a>
+GestureX unleashes the power of hand gestures to control your computing experience with unparalleled ease and precision. Leveraging the advanced capabilities of OpenCV, this innovation offers a seamless interface between human motion and digital response, essentially transforming your mere hand movements into a commanding tool for computer navigation and control.
 
+## Project Overview
 
-<br>
-<a href="https://opencv.org/">
- <img alt="opencv" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-</a>
+At the core of GestureX lies a highly responsive hand-tracking module that harnesses computer vision technologies to interpret physical hand gestures, providing a natural and intuitive user interface. With a simple wave of a hand, users can perform a multitude of tasks without the need for traditional input devices like a mouse or keyboard.
