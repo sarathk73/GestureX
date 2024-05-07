@@ -2,7 +2,7 @@
 
 GestureX unleashes the power of hand gestures to control your computing experience with unparalleled ease and precision. Leveraging the advanced capabilities of OpenCV, this innovation offers a seamless interface between human motion and digital response, essentially transforming your mere hand movements into a commanding tool for computer navigation and control.
 
-![GestureX](/assets/ges.jpg)
+![GestureX](ges.jpg)
 
 ## Project Overview
 
