@@ -59,13 +59,14 @@ Your contributions are welcome! If you would like to contribute, fork the reposi
 ## Contact Information
 For assistance or to provide feedback, reach out to us at [amssarath@gmail.com](mailto:amssarath@gmail.com).
 
-### Authors
-
-- Sarath K - Initial work - [sarathk73](https://github.com/sarathk73)
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 Special thanks to all the contributors and open-source libraries that made this project possible.
+
+### Authors
+
+- Sarath K - Initial work - [sarathk73](https://github.com/sarathk73)
+
 
