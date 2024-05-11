@@ -58,6 +58,11 @@ For detailed understanding, here's a brief on the main modules:
 Your contributions are welcome! If you would like to contribute, fork the repository, make changes, and create a pull request with your improvements. For any support or queries, raise an issue in the GitHub issue tracker.
 ## Contact Information
 For assistance or to provide feedback, reach out to us at [amssarath@gmail.com](mailto:amssarath@gmail.com).
+
+### Authors
+
+- Sarath K - Initial work - [sarathk73](https://github.com/sarathk73)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
