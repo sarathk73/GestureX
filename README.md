@@ -65,8 +65,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 Special thanks to all the contributors and open-source libraries that made this project possible.
 
-### Authors
+## Need Help or Have a Feature Request?
+We're here to help! If you have any support queries or suggestions for new features, please file an issue on our GitHub repository. We'll get back to you as soon as possible.
 
-- Sarath K - Initial work - [sarathk73](https://github.com/sarathk73)
-
+## Contact Information
+For assistance or to provide feedback, reach out to us at [amssarath@gmail.com](mailto:amssarath@gmail.com).
 
