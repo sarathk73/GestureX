@@ -6,7 +6,7 @@ GestureX unleashes the power of hand gestures to control your computing experien
 
 ## Project Overview
 
-At the core of GestureX lies a highly responsive hand-tracking module that harnesses computer vision technologies to interpret physical hand gestures, providing a natural and intuitive user interface. With a simple wave of a hand, users can perform a multitude of tasks without the need for traditional input devices like a mouse or keyboard.
+GestureX revolutionizes user interaction with its cutting-edge hand-tracking module, leveraging advanced computer vision technology to decode physical hand gestures. This creates an intuitive and seamless user interface, allowing users to perform a wide array of tasks with a mere wave of their hand, eliminating the need for traditional input devices such as a mouse or keyboard.
 
 ### Key Features
 
