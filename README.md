@@ -44,7 +44,7 @@ git clone https://github.com/yourusername/GestureX.git
 cd GestureX
 ```
 Run gestureX.py to start the hand gesture control system.
-```bash
+```
 python gestureX.py
 ```
 ## Documentation 
