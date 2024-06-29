@@ -39,7 +39,7 @@ To get started with GestureX, ensure you have the following prerequisites instal
 
 Once the prerequisites are installed, clone the repository to your local machine and navigate to the project directory.
 
-```bash
+```
 git clone https://github.com/yourusername/GestureX.git
 cd GestureX
 ```
